@@ -1,0 +1,15 @@
+site_name: Mickeys Ten Commandments For Design
+nav:
+    - Introduction: index.md
+    - 'Mickeys 10 Commandments':
+        - 'Know Your Audience': mickeys-10-commandments/1-know-your-audience.md
+        - 'Wear Your Guests Shoes': mickeys-10-commandments/2-wear-your-guests-shoes.md
+        - 'Organize the Flow of People and Ideas': mickeys-10-commandments/3-organize-the-flow-of-people-and-ideas.md
+        - 'Create a Wienie (Visual Magnet)': mickeys-10-commandments/4-create-a-wienie.md
+        - 'Communicate with Visual Literacy': mickeys-10-commandments/5-communicate-with-visual-literacy.md
+        - 'Avoid Overload-Create Turn-Ons': mickeys-10-commandments/6-avoid-overload.md
+        - 'Tell One Story at a Time': mickeys-10-commandments/7-tell-one-story-at-a-time.md
+        - 'Avoid Contradiction-Maintain Identity': mickeys-10-commandments/8-avoid-contradiction.md
+        - 'For Every Ounce of Treatment, Provide a Ton of Treat': mickeys-10-commandments/9-treatment-and-treat.md
+        - 'Keep it Up (Maintain it)!': mickeys-10-commandments/10-keep-it-up.md
+theme: material
