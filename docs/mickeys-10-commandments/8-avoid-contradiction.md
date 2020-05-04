@@ -1,0 +1,1 @@
+# Avoid Contradiction-Maintain Identity
